@@ -22,7 +22,7 @@ header{
     display: flex;align-items: center;
     justify-content: center;
 }#ufa{
-
+color: white;
     display: flex;
 }
 h1{
@@ -31,17 +31,52 @@ h1{
 }
 
 .oo{
-    width: 80px;
+    width: 90px;
     border-radius: 70px;
     height: 80px;
-
-}
-.ee{
-background-color: white;
-    height: auto;
-    width: auto;
-
+    width: 7vw;
+    border: 4px solid rebeccapurple;
 }
 .kk{
+background-color: black;
+color: white;
+height: 36px;
 
+}.q{
+    width: 500px;
+    display: flex;
+    ;align-items: center;
+}
+p{
+    color: white;
+}
+.u{
+    display: flex;flex-direction: column;
+    align-items: center;
+}
+i{
+    color: white;
+    height: 80px;
+    width: 40px;
+}.imgpost{
+
+width:500px ;
+height:500px ;
+
+}
+.post{
+    width: 500px;
+
+}.n{
+    width: 50px;
+    border: 4px solid rebeccapurple;
+    border-radius: 30px;
+}.f{
+    display: flex;
+  
+}.h{
+    width: 50px;
+    border: 4px solid rebeccapurple;
+    border-radius: 30px;
+}.f{
 }
